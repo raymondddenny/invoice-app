@@ -34,3 +34,5 @@ build/
 
 ### Database Docker ###
 invoicedb-data/
+
+application.properties
